@@ -44,6 +44,7 @@ The layout of this repo was inspired from NASA's [Open Source Catalog](https://g
 |Copy fields to new list|Creates a new list with designated fields with "better names" (e.g. no "_x0020_" in field names)
 |Copy items to a list|Copies stored items to a list
 |List view to editable grid view|Edit a list in a more presentable view
+|JSON import export|Import/export JSON list items
 |Send email|Send email (bonus - include latest edit of version controlled multiline field)
 |Custom form save|Make a form custom with validation and take over default save from EditForm.aspx
 |User group management|Manage user groups
