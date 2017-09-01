@@ -1,0 +1,9 @@
+{
+    "title": "SharePoint Catalog", 
+    "visibility": "public", 
+    "type": "GIT", 
+    "description": "This GitHub repository contains a catalog of publically available open source projects.", 
+    "url": "https://github.com/JDelemar/SharePoint",
+    "repo": "JDelemar/SharePoint",
+    "categories": ["SharePoint"] 
+}
